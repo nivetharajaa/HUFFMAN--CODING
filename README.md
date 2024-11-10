@@ -26,7 +26,7 @@ Print the characters and its huffmancode
 
 ``` 
 # Get the input String
-string = 'nivetha'
+string = 'Nivetha'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -80,7 +80,8 @@ for (char, frequency) in freq:
 
 ### Print the characters and its huffmancode
 
-![image](https://github.com/user-attachments/assets/1a668ced-f20a-4770-a715-8b9eede3aecb)
+![image](https://github.com/user-attachments/assets/e7077aff-91e2-4398-81d1-bd21b10562ce)
+
 
 
 ## Result
